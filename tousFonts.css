@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Kids';
+    src: url('Kids/KidsPlain.eot');
+    src: url('Kids/KidsPlain.eot?#iefix') format('embedded-opentype'),
+        url('Kids/KidsPlain.woff2') format('woff2'),
+        url('Kids/KidsPlain.woff') format('woff'),
+        url('Kids/KidsPlain.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
